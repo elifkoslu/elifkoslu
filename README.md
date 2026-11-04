@@ -4,10 +4,6 @@
 
 Twelve years in enterprise IT on the business side of delivery: SAP BW consulting at Eczacıbaşı and IBM, solution consulting at IBM, digital-transformation programmes with banking and insurance clients at VMware. Today I lead AI adoption and process automation at a chemical manufacturer — finding where AI actually creates value, building the working solution, and helping people adopt it.
 
-I'm looking for roles in **digital transformation, AI adoption and forward-deployed delivery**.
-
-## Selected work
-
 | Project | What it shows |
 |---|---|
 | **Lunara** — women's health across life stages · [live](https://lunara.root-box.org) | A complete product from problem to production: seven life stages, offline-first PWA, health data that never leaves the phone, KVKK-aligned privacy text, 255 automated tests. |
@@ -21,4 +17,4 @@ Most of the code in these projects is written with **Claude Code**. My part is t
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/elif-vatansever-koslu-7655a4a/) · Eskişehir, Türkiye · open to hybrid (İstanbul, Kocaeli, Ankara) and remote roles
+[LinkedIn](https://www.linkedin.com/in/elif-vatansever-koslu-7655a4a/)
