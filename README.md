@@ -10,6 +10,7 @@ Twelve years in enterprise IT on the business side of delivery: SAP BW consultin
 |---|---|
 | **[Lunara](https://github.com/elifkoslu/lunara)** — women's health across life stages · [live](https://lunara.root-box.org) | A complete product from problem to production: seven life stages, offline-first PWA, health data that never leaves the phone, KVKK-aligned privacy text, 250+ automated tests. |
 | **[Perim](https://github.com/elifkoslu/perim)** — perimenopause & BHRT tracker · [live](https://perim-app.vercel.app) | A narrow problem general apps get wrong: cyclic hormone plans, irregular cycles, e-Nabız lab PDFs read in the browser, and a summary to take to the doctor. |
+| **[Reading trainer](https://github.com/elifkoslu/reading-trainer)** — speed and comprehension, Turkish & English · [live](https://elifkoslu.github.io/reading-trainer/) | Speed measured together with understanding, not instead of it: a level test sets the pace of seven exercises, and readers can practise on their own texts. One HTML file, no framework, no backend. |
 | **Production tracking workspace** (internal, case study coming) | Python · Django · PostgreSQL on live production data. OCR reads paper production forms and creates the workflow record, so manual entry becomes a verification step. |
 | **Maya** (in progress, with a partner) | A small ERP for small-batch producers with lot-level traceability and recall, and applied AI on top. I'm the architect and product owner. |
 
